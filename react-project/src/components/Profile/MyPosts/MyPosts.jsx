@@ -11,8 +11,13 @@ const MyPosts = () => {
         {id: 2, message: 'Dada', likesCount: 11}
     ]
 
+<<<<<<< HEAD
     let postsElements =
         posts.map( p => <Post message={p.message} likesCount={p.likesCount}/>);
+=======
+    let postsElements = 
+    posts.map( p => <Post message={p.message} likesCount={p.likesCount}/>);
+>>>>>>> 1c3bd7f54a8fccdc8af10b4728852d91259d2874
 
     return (
         <div className={classes.postsBlock}>
