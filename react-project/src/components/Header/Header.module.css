@@ -1,7 +1,42 @@
 .header {
+    font-family: 'Roboto';
     grid-area: header;
     background-color: aquamarine;
+    display: flex;
+    border: 1px solid red;
+    justify-content: space-between;
 }
 header img {
-    width: 70px;
+    width: 80px;
+    border: 1px solid;
+}
+header ul {
+    /*padding: 0;*/
+    /*display: block;*/
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    /*padding: 5px 20px 20px 10px;*/
+
+    border: 1px solid darkgoldenrod;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+header a{
+    text-decoration: none;
+    /*color: #454547;*/
+    /*font-size: 14px;*/
+    border: 1px solid red;
+    padding: 15px 30px 15px 40px;
+}
+ul li {
+    margin-left: 15px;
+    /*text-decoration: none;*/
+}
+header > ul li a{
+    text-decoration: none;
+    color: #454547;
+    font-size: 20px;
+    text-transform: uppercase;
+
 }
