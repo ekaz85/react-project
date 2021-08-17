@@ -1,42 +1,40 @@
 .header {
-    font-family: 'Roboto';
+    font-family: Impact;
     grid-area: header;
-    background-color: aquamarine;
+    background-color: #868b8f;
     display: flex;
-    border: 1px solid red;
     justify-content: space-between;
 }
 header img {
     width: 80px;
-    border: 1px solid;
+}
+h1 {
+    width: 100px;
+    margin: 10px 250px 50px -46px;
+    color: #454547;
 }
 header ul {
-    /*padding: 0;*/
-    /*display: block;*/
     list-style: none;
     display: flex;
     justify-content: center;
-    /*padding: 5px 20px 20px 10px;*/
-
-    border: 1px solid darkgoldenrod;
     text-decoration: none;
     text-transform: uppercase;
+    font-family: "Arial Rounded MT Bold";
 }
 header a{
     text-decoration: none;
-    /*color: #454547;*/
-    /*font-size: 14px;*/
-    border: 1px solid red;
-    padding: 15px 30px 15px 40px;
+    padding: 12px 30px 12px 14px;
 }
-ul li {
-    margin-left: 15px;
-    /*text-decoration: none;*/
+header a:hover{
+    background: #454547;
+    color: #868b8f;
 }
 header > ul li a{
     text-decoration: none;
     color: #454547;
     font-size: 20px;
     text-transform: uppercase;
-
+}
+i {
+    font-style: normal;
 }

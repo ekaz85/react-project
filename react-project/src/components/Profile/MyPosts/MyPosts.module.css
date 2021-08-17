@@ -5,3 +5,17 @@
 .posts {
     margin-top: 10px;
 }
+
+textarea {
+    width: 90%;
+    height: 70px;
+    border-radius: 15px;
+}
+
+button {
+    width: 90%;
+    height: 30px;
+    border-radius: 15px;
+    color: #454547;
+    background: darkgray;
+}
