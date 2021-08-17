@@ -9,15 +9,15 @@ let initialState = {
         {id: 2, name: 'Andrew'},
         {id: 3, name: 'Sara'},
         {id: 4, name: 'Mike'},
-        {id: 5, name: 'Victor'},
-        {id: 6, name: 'Valera'}
+        {id: 5, name: 'John'},
+        {id: 6, name: 'Anna'}
     ],
     messages : [
         {id: 1, message: 'Hi'},
         {id: 2, message: 'How are you?'},
-        {id: 3, message: 'Yo'},
-        {id: 4, message: 'Yo'},
-        {id: 5, message: 'Yo'}
+        {id: 3, message: 'Happy Monday)))'},
+        {id: 4, message: 'We have to done our project today!'},
+        {id: 5, message: "Let's go!"}
     ],
     newMessageBody: ""
 };
