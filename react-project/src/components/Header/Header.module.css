@@ -1,7 +1,57 @@
 .header {
-    grid-area: header;
-    background-color: aquamarine;
+    font-family: Impact;
+    /* grid-area: header; */
+    background-color: #f5f6f7;
+    /* background-color: #47BBF9 ; */
+}
+.header .upperheader {
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    border-bottom: 1px solid rgb(190, 189, 189)
+
+}
+.header .lowerheader {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
 }
 header img {
-    width: 70px;
+    width: 80px;
 }
+h1 {
+    color: #454547;
+}
+.lowerheader a {
+    color: #454547;
+    text-decoration: none;
+}
+.lowerheader a.activeLink {
+    color: #000;
+}
+/* header ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "Arial Rounded MT Bold";
+} 
+header a {
+    text-decoration: none;
+    padding: 12px 30px 12px 14px;
+}
+header a:hover{
+    background: #454547;
+    color: #868b8f;
+}
+header > ul li a{
+    text-decoration: none;
+    color: #454547;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+i {
+    font-style: normal;
+}
+*/
