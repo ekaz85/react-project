@@ -1,18 +1,20 @@
 .app-wrapper {
-    display: grid;
-    width: 1200px;
+    /* display: grid; */
+    max-width: 1200px;
     margin: 0 auto;
-    grid-template-areas:
-      "header header"
-      "nav content";
+    /* grid-template-areas:
+      "header"
+      "content"; */
 
-    grid-template-rows: 60px 1fr;
-    grid-template-columns: 2fr 10fr;
+    /* grid-template-rows: 110px 1fr; */
+    /* grid-template-columns: 1fr 5fr; */
 }
 
 .app-wrapper-content {
-    grid-area: content;
-    background-color: aqua;
+    /* grid-area: content; */
+    min-height: calc(100vh - 60px);
+    background-color: #ffffff;
+    padding: 40px 40px;
 }
 
 

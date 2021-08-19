@@ -1,27 +1,43 @@
 .header {
     font-family: Impact;
-    grid-area: header;
-    background-color: #868b8f;
+    /* grid-area: header; */
+    background-color: #f5f6f7;
+    /* background-color: #47BBF9 ; */
+}
+.header .upperheader {
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    border-bottom: 1px solid rgb(190, 189, 189)
+
+}
+.header .lowerheader {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
 }
 header img {
     width: 80px;
 }
 h1 {
-    width: 100px;
-    margin: 10px 250px 50px -46px;
     color: #454547;
 }
-header ul {
+.lowerheader a {
+    color: #454547;
+    text-decoration: none;
+}
+.lowerheader a.activeLink {
+    color: #000;
+}
+/* header ul {
     list-style: none;
     display: flex;
     justify-content: center;
     text-decoration: none;
     text-transform: uppercase;
     font-family: "Arial Rounded MT Bold";
-}
-header a{
+} 
+header a {
     text-decoration: none;
     padding: 12px 30px 12px 14px;
 }
@@ -38,3 +54,4 @@ header > ul li a{
 i {
     font-style: normal;
 }
+*/

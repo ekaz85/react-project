@@ -1,13 +1,22 @@
+.itemWrapper {
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    align-items: baseline;
+}
 .item {
-    color: darkgray;
+    margin-right: 15px;
 }
 
 .item img {
     width: 70px;
     height: 50px;
+    margin-right: 15px;
     border-radius: 5px;
 }
-
-img {
-
+.button {
+    border-radius: 5px;
+    background-color: yellow;
+    border: 1px solid lightgray;
 }
