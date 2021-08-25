@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d0d6498-a263-42f6-9e5e-198c2b6926ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Dialogs/DialogItem/DialogItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Dialogs/Dialogs.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Dialogs/Dialogs.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Dialogs/DialogsContainer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Dialogs/Message/Message.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Header/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Header/Header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Music/Music.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Music/Music.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Navbar/Navbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Navbar/Navbar.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Navbar/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/News/News.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/News/News.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/MyPosts/MyPosts.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/MyPosts/MyPostsContainer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/MyPosts/Post/Post.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/MyPosts/Post/Post.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/Profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/Profile.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Profile/ProfileInfo/ProfileInfo.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Settings/Settings.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/components/Settings/Settings.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/redux/dialogs-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/redux/profile-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/redux/redux-store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/redux/sidebar-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/redux/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-project/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xEOPEtC4eCVTQTEYAKS1XsoLMk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d0d6498-a263-42f6-9e5e-198c2b6926ce" name="Default Changelist" comment="" />
+      <created>1629916754420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629916754420</updated>
+      <workItem from="1629916759716" duration="342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
