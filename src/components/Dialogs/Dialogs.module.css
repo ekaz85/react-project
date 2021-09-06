@@ -1,21 +1,54 @@
 .dialogs {
-  display: grid;
-  grid-template-columns: 2fr 2fr;
+  /* display: grid; */
+  /* grid-template-columns: 2fr 2fr; */
+  display: flex;
+  /* border: 1px solid; */
 }
 
 .dialogsItems {
+  width: 20%;
+  background-color: rgb(0, 0, 0);
   padding: 10px;
-  color: white;
 }
-
-.dialogsItems .active {
-  color: gold;
+.dialog {
+  margin-top: 10px;
 }
-
+.dialog:first-child {
+  margin-top: 0;
+}
+.dialog a {
+  text-decoration: none;
+  color: cadetblue;
+  font-weight: 900;
+}
 .messages {
+  width: 80%;
   padding: 10px;
+  margin-left: 20px;
+  background-color: cadetblue;
 }
-
 .messages .message {
-  color: white;
+  padding: 5px 0;
+  border-bottom: 1px solid lightgray;
+}
+.textarea {
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+  margin-bottom: 10px;
+  color:rgb(0, 0, 0);
+  border: none;
+  border-radius: 15px;
+}
+.textarea::placeholder {
+  color:rgb(0, 0, 0)
+}
+.button {
+  width: 100%;
+  color:rgb(0, 0, 0);
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 15px;
+  height: 30px;
 }
